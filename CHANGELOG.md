@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Order service package with order models, an in-memory store, business logic, HTTP-style request handlers, pytest tests, project config, README, task list, license and `.gitignore` (778d2b6, 349b458)
 - Dev container configuration for Codespaces with a Python virtualenv and Claude Code pre-installed (a29d9a5)
+- `/changelog` Claude Code skill that generates a Keep a Changelog section in `CHANGELOG.md` from git history (7221ae1)
 
 ### Changed
 
